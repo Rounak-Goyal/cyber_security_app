@@ -5,18 +5,12 @@
     <string name="skip">SKIP</string>
     <string name="start">GOT IT</string>
 
-    <string name="slide_1_title">Hello Food!</string>
     <string name="slide_1_desc">The easiest way to secure your apps!</string>
 
-    <string name="slide_2_title">Movie Tickets</string>
     <string name="slide_2_desc">Easy to monitor security issues of your apps!</string>
 
-    <string name="slide_3_title">Great Discounts</string>
     <string name="slide_3_desc">Easy to back lost data of your apps!</string>
 
-    <string name="slide_4_title">World Travel</string>
     <string name="slide_4_desc">Create Account and get started!</string>
 
-    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
-    <string name="play_again">Play Again</string>
 </resources>
